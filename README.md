@@ -1,4 +1,4 @@
-# memor_project
+# 프로젝트명 : Memor
 
 캡스톤 프로젝트\n
 
