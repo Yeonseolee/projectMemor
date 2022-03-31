@@ -1,0 +1,1 @@
+[{"label": "laptop", "confidence": 0.14, "topleft": {"x": 565, "y": 378}, "bottomright": {"x": 1260, "y": 706}}, {"label": "keyboard", "confidence": 0.17, "topleft": {"x": 701, "y": 557}, "bottomright": {"x": 1247, "y": 696}}]
